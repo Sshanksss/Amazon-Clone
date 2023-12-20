@@ -1,2 +1,2 @@
 # Amazon-Clone
-The cone of Amazon website
+The clone of Amazon website
